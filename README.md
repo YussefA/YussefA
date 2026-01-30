@@ -1,5 +1,9 @@
 # 💫 About Me:
-  I am a rising Senior majoring in **Data Science**, currently interning at Capital One as a Business Analyst. In my role, I focus on using SQL to perform exploratory data analysis on large datasets, uncovering valuable insights and supporting **data-driven decision-making**. As I advance in my academic and professional journey, I am dedicated to expanding my expertise in **machine learning**. I will be working on various projects to **deepen my understanding and application of different AI models**. Through these projects, I aim to **enhance** my **technical skills**, solve **complex problems**, and **contribute to** the growing **field of artificial intelligence**.
+# 👋 Hi, I'm Yussef.
+
+I love data, building AI models, and solving complex problems.
+
+**🚀 Explore my projects below.**
 
 
 ## 🌐 Socials:
