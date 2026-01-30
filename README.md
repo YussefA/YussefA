@@ -1,10 +1,10 @@
-# 💫 About Me:
-# 👋 Hi, I'm Yussef.
+# 💡 Data. Logic. Innovation.
 
-I love data, building AI models, and solving complex problems.
+I specialize in **translating data into impact**. My work bridges the gap between raw data and real-world solutions—using **SQL** to uncover insights and **Machine Learning** to predict future trends.
 
-**🚀 Explore my projects below.**
+*Constantly learning, consistently building.*
 
+**👇 Explore my projects:**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yussef-ali-7ab988251) 
