@@ -1,6 +1,6 @@
 # 💡 Data. Logic. Innovation.
 
-I specialize in **translating data into impact**. My work bridges the gap between raw data and real-world solutions—using **SQL** to uncover insights and **Machine Learning** to predict future trends.
+I specialize in **translating data into impact**. My work bridges the gap between raw data and real world solutions using **SQL** to uncover insights and **Machine Learning** to predict future trends.
 
 *Constantly learning, consistently building.*
 
